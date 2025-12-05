@@ -18,14 +18,17 @@
     <a href="https://twitter.com/AdGuard">Twitter</a> |
     <a href="https://t.me/adguard_en">Telegram</a>
     <br /><br />
-    <a href="https://agrd.io/safari">
+    <a href="https://agrd.io/mini_mac">
         <img src="https://img.shields.io/badge/download-app%20store-blue.svg" alt="Download on the AppStore" />
     </a>
-    <a href="https://agrd.io/safari_release">
+    <a href="https://agrd.io/adguard_mini_for_mac">
         <img src="https://img.shields.io/github/release/AdguardTeam/AdguardForSafari.svg?label=release" alt="Latest release" />
     </a>
     <a href="https://agrd.io/adguard_mini_for_mac_beta">
         <img src="https://img.shields.io/endpoint?url=https://shields-io-proxy.agrd.workers.dev/?repo=AdGuardTeam/AdGuardForSafari" alt="Latest beta" />
+    </a>
+    <a href="https://agrd.io/adguard_mini_for_mac_nightly">
+        <img src="https://img.shields.io/github/v/release/AdguardTeam/AdguardVPNForWindows?color=dodgerblue&display_name=release&label=nightly&include_nightly" alt="Latest nightly>" />
     </a>
 </p>
 
