@@ -28,7 +28,7 @@
         <img src="https://img.shields.io/endpoint?url=https://shields-io-proxy.agrd.workers.dev/?repo=AdGuardTeam/AdGuardForSafari" alt="Latest beta" />
     </a>
     <a href="https://agrd.io/adguard_mini_for_mac_nightly">
-        <img src="https://img.shields.io/github/v/release/AdguardTeam/AdguardVPNForWindows?color=dodgerblue&display_name=release&label=nightly&include_nightly" alt="Latest nightly>" />
+        <img src="https://img.shields.io/badge/download-nightly-green" alt="Latest nightly" />
     </a>
 </p>
 
